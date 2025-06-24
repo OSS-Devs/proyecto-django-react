@@ -1,4 +1,4 @@
-#!/home/alejandro/proyectos/proyecto-django-react/env/bin/python3
+#!/home/jose/proyecto-django-react/env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
